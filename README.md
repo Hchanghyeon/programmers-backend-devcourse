@@ -20,6 +20,7 @@
 | :-----: | :-------------:| :-----------------------------: | :----------: | :---:|
 | 개인 | moa-survey | 설문조사 플랫폼 | [레포](https://github.com/Hchanghyeon/moa-survey) <br> [발표영상](https://present.do/documents/64bd048110ab9a5ae5616ae1) | 2023/07/08 ~ 2023/07/23 |
 | 팀 | ticketparis | 인터파크 티켓 서비스 클론코딩 | [레포](https://github.com/prgrms-be-devcourse/BE-04-TICKETPARIS) | 2023/08/29 ~ 2023/09/22 |
+| 팀 | pickple | 농구 게스트 및 크루(팀원) 모집 서비스 | [레포](https://github.com/Java-and-Script/pickple-back) | 2023/10/12 ~ 2023/12/07 |
 
 
 ## 📚 스터디
@@ -28,9 +29,11 @@
 | nextstep-study | 넥스트스텝 자바 플레이그라운드 TDD, 클린코드 스터디 | 2023/06 ~ 2023/07 | [스터디 레포](https://github.com/navy-nextstep-study) <br> [강의](https://edu.nextstep.camp/c/9WPRB0ys)|
 | 밑바닥 스터디 | 주 3회 Java, Spring에 나오는 키워드 들의 공부하고 서로 공유, 토론하는 스터디| 2023/07 ~ 2023/10 | |
 | 일고리즘 스터디 | 주 3회 알고리즘 문제를 풀고 토론하는 스터디 | 2023/07 ~ 2023/10 | |
+| CS 면접 스터디 | 주 2회 DB, 네트워크 등에 대해 공부하고 해당 키워드를 가지고 실제 면접을 보는 스터디| 2023/10 ~ 2023/12 | [스터디 레포](https://github.com/dev-team-study/cs-study) |
 
 ## ✍️ 블로그
 | 구분 | 내용 | 주소 |
 | :-----: | :---------------------------------------: | :----: |
 | 트러블 슈팅 | 서버 접속이 안 될 때 해볼 수 있는 tcpdump를 이용한 트러블 슈팅 방법 | [블로그](https://hchanghyeon.github.io/blog/tcpdump/troubleshooting/) |
 | 트러블 슈팅 | 공연 예매시 발생하는 좌석 동시성 문제 해결하기 | [블로그](https://hchanghyeon.github.io/blog/concurrent/) |
+ 
