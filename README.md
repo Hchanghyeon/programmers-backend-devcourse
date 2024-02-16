@@ -31,3 +31,9 @@
 | 일고리즘 스터디 | 주 3회 알고리즘 문제를 풀고 토론하는 스터디 | 2023/07 ~ 2023/10 | |
 | CS 면접 스터디 | 주 2회 DB, 네트워크 등에 대해 공부하고 해당 키워드를 가지고 실제 면접을 보는 스터디| 2023/10 ~ 2023/12 | [스터디 레포](https://github.com/dev-team-study/cs-study) |
  
+## 피어리뷰
+PRE팀 <br>
+<img width="942" alt="image901" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/640589c2-e575-4fd1-9d29-1747c51f48f1">
+
+NEW팀 <br>
+<img width="960" alt="image902" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/94d66b33-3d1c-4270-830f-8f5d58d85f6e">
