@@ -33,11 +33,10 @@
  
 ## 피어리뷰
 ### PRE팀 <br>
-<img width="942" alt="image901" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/640589c2-e575-4fd1-9d29-1747c51f48f1">
+<img width="550" alt="image901" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/640589c2-e575-4fd1-9d29-1747c51f48f1">
 
 ### NEW팀 <br>
-<img width="960" alt="image902" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/94d66b33-3d1c-4270-830f-8f5d58d85f6e">
+<img width="550" alt="image902" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/94d66b33-3d1c-4270-830f-8f5d58d85f6e">
 
 ### 최종 프로젝트 팀(NEW팀 + 프론트엔드팀) <br>
-![스크린샷 2024-02-19 오후 4 26 14](https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/7f2d1768-4693-4200-95db-d08b78388fd7)
-
+<img width="550" alt="image903" src="https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/7f2d1768-4693-4200-95db-d08b78388fd7">
